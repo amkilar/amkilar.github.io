@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Agata Magdalena Kilar"
 title_separator          : "-"
 name                     : &name "Agata Magdalena Kilar"
 description              : &description "personal description"
@@ -88,7 +88,7 @@ author:
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=agata+kilar"
   googlescholar    : "https://scholar.google.com/citations?user=oKz0jSIAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Agata-Kilar-2"
   uri              :
   bitbucket        :
   codepen          :
